@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Integrate css file and fix Workexperience.html">
+    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Add Zac's Index.html and styles zac.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/styles zac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Workexperience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Workexperience.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +47,7 @@
       <updated>1650980701715</updated>
       <workItem from="1650980703197" duration="2898000" />
       <workItem from="1650984234438" duration="3828000" />
-      <workItem from="1650988191188" duration="211000" />
+      <workItem from="1650988191188" duration="4992000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650986875034</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Zac's Index.html and styles zac.css">
+      <created>1650988518694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650988518694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +160,7 @@
     <MESSAGE value="Fix background color" />
     <MESSAGE value="Add Gang's Workexperience.html and work.css files" />
     <MESSAGE value="Integrate css file and fix Workexperience.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrate css file and fix Workexperience.html" />
+    <MESSAGE value="Add Zac's Index.html and styles zac.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Zac's Index.html and styles zac.css" />
   </component>
 </project>

@@ -1,5 +1,25 @@
-/*Menu Setting*/
-table.Menu{
+/*menu Setting*/
+th.name{
+    width:35%;
+    Font-Family:'courier new';
+    text-align:left;
+    padding-left:100px;
+}
+table.menu{
+    text-align: center;
+}
+th.menu{
+    width:16.25%;
+    /*border: 1px solid black;*/
+}
+a.menu{
+    font-family:'courier new';
+    color:black
+}
+a.menu:hover{
+    color:rgba(121, 77, 11, 0.705)
+}
+/*table.menu{
     text-align: center;
     margin-top: 30px;
     margin-left: auto;
@@ -7,7 +27,7 @@ table.Menu{
     border-spacing: 30px 0;
 }
 
-th.Menu{
+th.menu{
     padding: 5px 10px;
     border-collapse: collapse;
     border-radius: 20px;
@@ -15,20 +35,40 @@ th.Menu{
     color: white;
 }
 
-th.Menu:hover{
+th.menu:hover{
     background-color: blanchedalmond;
-}
+}*/
 
 /* The line below the menu */
-hr.Menu{
+hr.menu{
     width: auto;
-    margin-top: 30px;
-    border-top: 5px double white;
+    /*margin-top: 30px;*/
+    border-top: 2px solid black;
 }
 
 /* Body setting*/
 body.background{
-    background-color: gray;
+    /*background-color: gray;*/
+}
+
+/* Index page setting*/
+p.content{
+    font-family:'courier new';
+    align:left top;
+    padding-bottom:600px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+th.image{
+    background-image: url("../Images/zac cv.jpg");
+    width:30%;
+    padding-bottom:300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+th.center{
+    width:20%;
 }
 
 /* Work experience page Setting */
@@ -38,6 +78,7 @@ body.background{
 
 table.WorkExperience, tr.WorkExperience, th.WorkExperience, td.WorkExperience {
     border: 1px solid white;
+    font-family:'courier new'
 }
 
 th.title {
@@ -51,29 +92,29 @@ td.details {
 
 /* Contract page Setting*/
 table.ContactMain{
-    width: 1100px;
+    width: 100%;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    border-spacing: 10px 20px;
+    border-spacing: 20px 20px;
 }
 
 th.ContactMain{
     font-size: 50px;
     margin-left: auto;
     margin-right: auto;
-    color: white;
+    /*color: white;*/
 }
 
-td.ContracLeftBar{
+td.ContractLeftBar{
     background-image: url("../Images/zac cv.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    opacity: 0.6;
+    /*opacity: 0.6;*/
     vertical-align: bottom;
     text-align: center;
     font-size: 20px;
-    color: white;
+    /*color: white;*/
 }
 
 td.ContactMain{

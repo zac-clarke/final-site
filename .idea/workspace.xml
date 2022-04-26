@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Fix background color" />
+    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Add Gang's Workexperience.html and work.css files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/work.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Workexperience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Workexperience.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +19,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28L0kUvUI0jrPEpnNTDWumwY4M5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650980701715</updated>
       <workItem from="1650980703197" duration="2898000" />
-      <workItem from="1650984234438" duration="1180000" />
+      <workItem from="1650984234438" duration="2355000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -50,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650985424462</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Gang's Workexperience.html and work.css files">
+      <created>1650985804543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650985804543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,8 +107,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fix contact page and style" />
     <MESSAGE value="Fix background color" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix background color" />
+    <MESSAGE value="Add Gang's Workexperience.html and work.css files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Gang's Workexperience.html and work.css files" />
   </component>
 </project>

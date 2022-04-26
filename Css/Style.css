@@ -28,9 +28,28 @@ hr.Menu{
 
 /* Body setting*/
 body.background{
-    background-color: black;
+    background-color: gray;
 }
 
+/* Work experience page Setting */
+.left {
+    text-align: left;
+}
+
+table.WorkExperience, tr.WorkExperience, th.WorkExperience, td.WorkExperience {
+    border: 1px solid white;
+}
+
+th.title {
+    background-color: OldLace;
+}
+
+td.details {
+    font-size: 30px;
+    background-color: OldLace;
+}
+
+/* Contract page Setting*/
 table.ContactMain{
     width: 1100px;
     margin-top: 50px;

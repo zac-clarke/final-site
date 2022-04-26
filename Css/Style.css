@@ -1,0 +1,80 @@
+/*Menu Setting*/
+table.Menu{
+    width: 70%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 30px 0;
+}
+
+th.Menu{
+    border-collapse: collapse;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+th.Menu:hover{
+    background-color: blanchedalmond;
+}
+
+/* The line below the menu */
+hr.Menu{
+    margin-top: 30px;
+    border-top: 5px double black;
+}
+
+table.ContactMain{
+    width: 100%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 10px 20px;
+}
+
+th.ContactMain{
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td.ContracLeftBar{
+    background-image: url("../Images/zac cv.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.5;
+    vertical-align: bottom;
+    text-align: center;
+    font-size: 25px;
+}
+
+td.ContactMain{
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: linear-gradient(90deg, white, cadetblue);
+}
+
+span.ContactMain{
+    border-bottom: 2px solid #b0e0e6;
+    box-shadow: inset 0 -2px 0 #b0e0e6;
+}
+span.ContactMain:hover{
+    background-color: blanchedalmond;
+    border-bottom: revert;
+    box-shadow: revert;
+}
+
+td.ContractIcon{
+    background: transparent;
+    border: 3px double cadetblue;
+    border-radius: 40px;
+    padding-left: 0;
+    text-align: center;
+}
+
+img.ContactMain{
+    width: 40px;
+    height: auto;
+}

@@ -1,0 +1,28 @@
+
+
+
+.head{
+	font-family: Times New Roman;
+	font-size:50px;
+	
+}
+
+
+th.zp {
+	text-align:left;
+}
+
+.LOS{
+	text-align:left;
+	font-family:courier new;
+	font-size:25px;
+}
+
+body.dark {
+background-color:;
+}
+
+
+body.figure {
+background-image:url("../images/white-texture.jpg");
+}

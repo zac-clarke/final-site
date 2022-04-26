@@ -39,13 +39,14 @@ th.ContactMain{
 
 td.ContracLeftBar{
     background-image: url("../Images/zac cv.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.5;
+    opacity: 0.7;
     vertical-align: bottom;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
+    color: white;
 }
 
 td.ContactMain{

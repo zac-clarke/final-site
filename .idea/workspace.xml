@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Test">
+    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Remove the border and add line under Menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Education.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Education.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/skills.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <workItem from="1650999739469" duration="5961000" />
       <workItem from="1651006061859" duration="9482000" />
       <workItem from="1651022342035" duration="737000" />
-      <workItem from="1651068805430" duration="2418000" />
+      <workItem from="1651068805430" duration="4042000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -173,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651070759964</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Remove the border and add line under Menu">
+      <created>1651072208623</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651072208623</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +264,7 @@
     <MESSAGE value="Update Excel file" />
     <MESSAGE value="Change file name from Workexperience.html to Works.html" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Remove the border and add line under Menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove the border and add line under Menu" />
   </component>
 </project>

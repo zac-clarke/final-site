@@ -18,7 +18,7 @@ th.name{
 table.menu{
     width: 100%;
     text-align: center;
-    border: solid;
+    /*border: solid;*/
 }
 th.menu{
     width:16.25%;
@@ -31,9 +31,14 @@ a.menu:hover{
     color:rgba(121, 77, 11, 0.705)
 }
 
+hr.Menu{
+    margin-top: 30px;
+    border-top: 5px double black;
+}
+
 /* Left bar setting*/
 table.MainTable{
-    border:solid;
+    /*border:solid;*/
     width: 100%;
 }
 

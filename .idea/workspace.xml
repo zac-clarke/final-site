@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/FSDfinal/Pages/Skills.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Css/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/EmailIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/EmailIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/FacebookLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/FacebookLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/InstagramLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/InstagramLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/LinkedinLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/LinkedinLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/PhoneIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/PhoneIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/SendIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/SendIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/TwitterLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/TwitterLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/carp.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/carp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/dish.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/dish.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/h2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/h2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/heygene.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/heygene.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/pizza.png" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/pizza.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/safety2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/safety2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/white-texture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/white-texture.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/wine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/wine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/zac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Images/zac.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Education.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/skills.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Education.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Works.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +42,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
@@ -98,7 +82,7 @@
       <workItem from="1651068805430" duration="4357000" />
       <workItem from="1651074482248" duration="524000" />
       <workItem from="1651108918823" duration="2005000" />
-      <workItem from="1651111234763" duration="419000" />
+      <workItem from="1651111234763" duration="583000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -275,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651111250451</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="test">
+      <created>1651111679528</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651111679528</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Fix some character">
+    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Delete Documents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
       <workItem from="1651022342035" duration="737000" />
       <workItem from="1651068805430" duration="4357000" />
       <workItem from="1651074482248" duration="524000" />
+      <workItem from="1651108918823" duration="492000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -183,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651074011783</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Delete Documents">
+      <created>1651108947643</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651108947643</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +281,7 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Remove the border and add line under Menu" />
     <MESSAGE value="Fix some character" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix some character" />
+    <MESSAGE value="Delete Documents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Documents" />
   </component>
 </project>

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="Delete Documents">
+    <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Education.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\JohnAbbottFinalProject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JohnAbbottFinalProject/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -67,7 +75,7 @@
       <workItem from="1651022342035" duration="737000" />
       <workItem from="1651068805430" duration="4357000" />
       <workItem from="1651074482248" duration="524000" />
-      <workItem from="1651108918823" duration="492000" />
+      <workItem from="1651108918823" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -202,7 +210,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651108947643</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test">
+      <created>1651109425850</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109425850</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test">
+      <created>1651109590180</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109590180</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test">
+      <created>1651109610469</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109610469</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +321,7 @@
     <MESSAGE value="Remove the border and add line under Menu" />
     <MESSAGE value="Fix some character" />
     <MESSAGE value="Delete Documents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete Documents" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

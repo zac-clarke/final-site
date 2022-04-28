@@ -2,10 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ccdaf3-a32e-4bb4-b4a3-c8075cbb90ab" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/../.idea/JohnAbbottFinalProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/EmailIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/FacebookLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/InstagramLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/LinkedinLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/PhoneIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/SendIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/TwitterLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/carp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/dish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/h2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/heygene.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/safety2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/white-texture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/wine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Images/zac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pages/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pages/Education.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pages/Skills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pages/Works.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JohnAbbottFinalProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Education.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FSDfinal/Pages/Works.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSDfinal/Pages/Works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/EmailIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/FacebookLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/InstagramLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/LinkedinLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/PhoneIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/SendIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/TwitterLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/carp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/dish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/h2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/heygene.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/pizza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/safety2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/white-texture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/wine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/zac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Works.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +61,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -28,7 +76,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28L0kUvUI0jrPEpnNTDWumwY4M5" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -82,6 +130,8 @@
       <workItem from="1651074482248" duration="524000" />
       <workItem from="1651108918823" duration="2005000" />
       <workItem from="1651111234763" duration="749000" />
+      <workItem from="1651112779874" duration="327000" />
+      <workItem from="1651113116636" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Fix contact page and style">
       <created>1650983839604</created>
@@ -279,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651111898955</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="test">
+      <created>1651112810646</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1651112810646</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

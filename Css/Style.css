@@ -118,6 +118,11 @@ th.head{
     font-size:30px;
 }
 
+img.skills{
+    width: 40%;
+    height: 100%;
+}
+
 th.zp {
     text-align:left;
 }
